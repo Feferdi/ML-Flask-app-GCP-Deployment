@@ -1,4 +1,4 @@
-# Deployment GCP
+#  GCP Deployment: 3 important files needed
 
 -yaml: runtime: python37
 
