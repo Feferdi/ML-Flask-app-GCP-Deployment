@@ -1,13 +1,6 @@
-Building and Embedding Machine Learning Model into a Web App(With Flask)
+# Deployment GCP
+-yaml: runtime: python37
 
-Basic Requirements
+-main
 
-For Python ML Web Apps, we use the below libraries:
-
-Flask
-Scikit-learn
-Pandas
-Numpy
-Joblib/Pickle
-Matplotlib
-Requests
+-requirements
